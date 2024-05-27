@@ -1,4 +1,4 @@
-# AlphaFold Protein Structure Prediction
+# Protein Structure Prediction
 
 Proteins are the molecular machines vital to every cell and organism, and understanding their structure is crucial for the discovery of new drugs to treat diseases or the discovery of new materials. Researchers have now made significant progress toward this goal by developing machine learning (ML) algorithms capable of accurately predicting the folded shapes of proteins and other biomolecules.
 
