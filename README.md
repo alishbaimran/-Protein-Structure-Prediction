@@ -2,7 +2,7 @@
 
 Proteins are the molecular machines vital to every cell and organism, and understanding their structure is crucial for the discovery of new drugs to treat diseases or the discovery of new materials. Researchers have now made significant progress toward this goal by developing machine learning (ML) algorithms capable of accurately predicting the folded shapes of proteins and other biomolecules.
 
-In this article, I’ll explore how protein folding works, how AlphaFold2 predicts novel protein structures, and how the newer AlphaFold3 model works. Before we begin, let’s refresh ourselves on how proteins work and fold.
+In this repo, I’m compiling resources on how protein folding works, how AlphaFold2 predicts novel protein structures, and how the newer AlphaFold3 model works. To start with, I've written a blog that talks more about these things. In the future, I am planning to add exercises, dive deeper into AlphaFold3, RosettaFold and ESMFold. 
 
 ## Blog Post
 Read more about AlphaFold and protein structure prediction in this detailed blog post: [AlphaFold: Protein Structure Prediction](https://open.substack.com/pub/mlreadinggroup/p/alphafold-protein-structure-prediction?r=40aag&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
